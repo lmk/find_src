@@ -1,4 +1,4 @@
-# find_src
+# find_src_crlf
 find .c, ,c++, .h include \r\n
 
 파라미터로 넘긴 디렉토리 전체에서, 
